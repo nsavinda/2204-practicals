@@ -1,4 +1,4 @@
-#2204 Functional Programming Tutorial
+# 2204 Functional Programming Tutorial
 
 ## Nirmal Savinda
 ## 21001792
