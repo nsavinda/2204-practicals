@@ -10,7 +10,7 @@ def main(args:Array[String])={
 	if (count > 50){
 		printf("Total Cost: %f\n", itemCost(count, price) - discount(count, price) + shipCost(50,3.0) + shipCost(count-50, 0.75))
 	}else{
-		printf("Total Cost: %f\n", itemCost(count, price) - discount(count, price) + shipCost(50,3.0))
+		printf("Total Cost: %f\n", itemCost(count, price) - discount(count, price) + shipCost(count,3.0))
 	}
 }
 }
