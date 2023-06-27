@@ -15,6 +15,7 @@ object Q1{
 		println(m/j*j)
 		println(f+10*5+g)
 		//println(++i*n)  Not supported
+		
 		}
 
 }

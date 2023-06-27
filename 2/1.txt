@@ -1,0 +1,5 @@
+Both Java and Scala languages have Object Oriented Programming
+Scala has stronger support for functional programming than Java
+In Java the type of variables must be given but it is not a must in Scala
+Operator overloading is supported in Scala but not in Java
+Functions are objects in Java but in Scala they are variables
