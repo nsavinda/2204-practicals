@@ -1,5 +1,4 @@
 class Rational(n: Int, d: Int) {
-  require(d != 0, "deinator cannot be zero")
 
   val nu: Int = n
   val de: Int = d
